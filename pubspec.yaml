@@ -1,0 +1,43 @@
+name: animated_bottom_navigation_bar
+description: A new Flutter project.
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons:
+#  font_awesome_flutter:
+#  open_container_transition:
+#  fluttertoast: ^8.0.8
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+#  fonts:
+#   - family:  MyFlutterApp
+#     fonts:
+#      - asset: assets/MyFlutterApp.ttf
+#      - asset: assets/MyFlutterApp2.ttf
+
+  uses-material-design: true
+
+#  fonts:
+#    - family: my_flutter_app_icons
+#      fonts:
+#        - asset: assets/MyFlutterApp.ttf
+
+
+

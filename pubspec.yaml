@@ -15,9 +15,6 @@ dependencies:
 
 
   cupertino_icons:
-#  font_awesome_flutter:
-#  open_container_transition:
-#  fluttertoast: ^8.0.8
 
 
 dev_dependencies:
@@ -26,18 +23,8 @@ dev_dependencies:
 
 flutter:
 
-#  fonts:
-#   - family:  MyFlutterApp
-#     fonts:
-#      - asset: assets/MyFlutterApp.ttf
-#      - asset: assets/MyFlutterApp2.ttf
+
 
   uses-material-design: true
-
-#  fonts:
-#    - family: my_flutter_app_icons
-#      fonts:
-#        - asset: assets/MyFlutterApp.ttf
-
 
 
